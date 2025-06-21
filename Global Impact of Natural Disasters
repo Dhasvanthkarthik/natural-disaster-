@@ -1,0 +1,28 @@
+# 🌋 Natural Disaster Analysis
+
+This project analyzes global natural disasters from 1990 to 2024 using a dataset of 2,000 events.  
+The goal is to understand patterns, damage impact, and trends over time.
+
+## 📊 Key Features
+- Year-wise frequency of disasters
+- Disaster type distribution
+- Human and economic impact analysis
+- Data visualization using Python
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📁 Files Included
+- `natural_disaster_analysis.py` – Python code for analysis
+- `disaster_data.csv` – Dataset of disaster events
+
+## 📌 How to Run
+1. Install dependencies: `pip install pandas matplotlib seaborn`
+2. Run the script in a Python environment (e.g., Jupyter Notebook or VS Code)
+
+---
+
+> Created by Dhasvanth Karthik, 2nd Year B.Sc. CS (Data Analytics)
